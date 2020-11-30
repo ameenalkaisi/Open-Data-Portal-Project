@@ -5,4 +5,9 @@ Here is the Inception Report:
 https://www.overleaf.com/read/mvsrzmmfxsns
 
 # Usage
-Download the jar file and place the databases (in csv format) at location of jar file, then run the program and follow the graphical user interface to complete the needed tasks.
+Download source code, open the .iml file using IntellJ, and follow this article to set up IntelliJ with JavaFX application
+Will need to download JavaFX from https://openjfx.io/
+
+Then click run
+
+Making a simple executable is one of the future objectives
