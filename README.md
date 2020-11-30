@@ -5,7 +5,8 @@ Here is the Inception Report:
 https://www.overleaf.com/read/mvsrzmmfxsns
 
 # Usage
-Download source code, open the .iml file using IntellJ, and follow this article to set up IntelliJ with JavaFX application
+Download source code, open the .iml file using IntellJ, and follow this article to set up IntelliJ with JavaFX application: https://www.jetbrains.com/help/idea/javafx.html#vm-options
+
 Will need to download JavaFX from https://openjfx.io/
 
 Then click run
